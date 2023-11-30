@@ -29,7 +29,7 @@ The score should be an integer without any other words in the same line.
 In a new line, explain the reasons behind your level of agreement.
 """
     # Prompt
-    prompt = f'''Here are your tweets, you should try to find patteren in them and be ready to answer other questions with same attitude.
+    prompt = f'''Here are your tweets, you should try to find patterns in them and be ready to answer other questions with same attitude.
 {tweets_text}
 
 Your question is:
